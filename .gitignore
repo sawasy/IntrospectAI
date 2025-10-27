@@ -1,0 +1,8 @@
+config.py
+data/*
+venv
+venv2
+
+__pycache__
+.vscode
+.aider*

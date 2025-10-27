@@ -1,0 +1,15 @@
+beautifulsoup4
+langchain-qdrant
+langchain
+langchain-community
+langchain-experimental
+neo4j
+mailbox
+langchain-core
+ijson # For timeline importing
+python-dateutil # Fuzzy dates mostly
+geopy # For reverse geocoding timeline data
+bigjson # You're gonna OOM with json
+rich
+email-validator
+nameparser
