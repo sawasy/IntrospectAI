@@ -147,4 +147,4 @@ This is for import data from things like Obsidian, Journals, Websites, etc.
   - Considering how long it takes to generate the relationships, IMO, it's not worth the energy. YMMV.
 - Aside from the embedding model, play with different models, as they can generate different results.
 - This is a passion project to learn more about RAGs, so it can definitely be improved upon. Especially the prompts.
-- Email is dirty data. I always have so many trouble parsing it correctly. Mostly spam.
+- Email is dirty data. I always have so many problems parsing it correctly. Mostly spam.
